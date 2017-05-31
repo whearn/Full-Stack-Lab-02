@@ -5,10 +5,14 @@ body {
 
 .title {
     color: purple;
+    text-align: center;
 }
 
 .friend {
-    background-color: black;
+    background-color: midnightblue;
+    padding: .5em;
+    border: 2px white solid;
+    border-radius: 1em;
 }
 
 .friend p {
